@@ -19,6 +19,7 @@
             <li><a href="./htmls/index.html">Inicio</a></li>
             <li><a href="./htmls/nosotros.html">Nosotros Ejercicios Javascript</a></li>
             <li><a href="./htmls/contacto.html">Contacto</a></li>
+            <li><a href="./htmls/PYTHON3.html">PYTHON3</a></li>
         </ul>
     </nav>
 </header>
@@ -27,12 +28,7 @@
 <section id="banner">
     <div class="ancho-contenido-banner">
         <h1>Somos Expertos en Desarrollo WEB</h1>
-        <p>
-            Lorem ipsum, dolor sit, amet consectetur adipisicing elit. Facilis
-            fuga hic modi. Laudantium quod a eum, soluta nam aliquid ab quidem
-            totam voluptatibus dolorum provident corrupti ut architecto assumenda
-            dolor.
-        </p>
+        <img src="../imagenes/equipo.png" alt="icono computadora" />
     </div>
 </section>
 
@@ -42,10 +38,12 @@
     <a href="contacto.html">Contáctanos</a>
 </section>
 
+</section>
+
 <!-- Servicios -->
 <section class="contenedor-flex-2">
     <div>
-        <img src="img/computadora.png" alt="icono computadora" />
+        <img src="../imagenes/computadora.png" alt="icono computadora" />
         <h2>Páginas WEB</h2>
         <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
@@ -54,7 +52,7 @@
         </p>
     </div>
     <div>
-        <img src="img/celular.png" alt="icono celular" />
+        <img src="../imagenes/celular.png" alt="icono celular" />
         <h2>Aplicaciones</h2>
         <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam
@@ -63,7 +61,7 @@
         </p>
     </div>
     <div>
-        <img src="img/cart.png" alt="icono cart" />
+        <img src="../imagenes/cart.png" alt="icono cart" />
         <h2>Tiendas Virtuales</h2>
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tempora
